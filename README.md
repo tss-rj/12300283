@@ -1,6 +1,6 @@
-README – Banking System Project
-Name: Ranjana
-Regn No.: 12300283
+Banking System Project
+[Name: Ranjana,
+Regn No.: 12300283]
 
 Software Used:
 - Python 3.14 (IDLE)
